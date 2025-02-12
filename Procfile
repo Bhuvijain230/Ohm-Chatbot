@@ -1,1 +1,1 @@
-web: gunicorn backend.core.wsgi --log-file -
+"startCommand": "gunicorn --workers=4 core.wsgi"

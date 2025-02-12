@@ -9,6 +9,13 @@ Ohm is a smart, interactive chatbot designed to provide support, guidance, and m
 - Suggestions for journaling, affirmations, and mental wellness
 - Easy-to-use React frontend with a Node.js and Python backend
 
+![home](./res/home.png)
+
+![about](./res/about.png)
+
+![chat](./res/chat.png)
+
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
